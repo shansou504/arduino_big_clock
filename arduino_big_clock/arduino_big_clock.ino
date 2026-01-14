@@ -2,10 +2,10 @@
 // 1. Set the variables in the [DATETIME VARIABLES] section
 // 2. In Setup() uncomment the time and date setting
 //    methods to set the time. Then flash the program.
-// 3. In Setup() comment the time and date setting
-//    methods to prevent the time from being overwritten
-//    upon subsequent flashes. If the DS3231 module
-//    contains a coin cell battery, it will remember
+// 3. In Setup() comment the time and date setting. Then
+//    flash again. This will prevent the time from being 
+//    overwritten each time it boots up. If the DS3231 
+//    module contains a coin cell battery, it will remember
 //    the time and it won't need to be set each time the
 //    program is flashed.
 

@@ -30,7 +30,7 @@ uint8_t month = 12;
 uint8_t date = 14;
 uint8_t dOW = 1;
 uint8_t hour = 17; // use 24h to set hour
-uint8_t minute = 02;
+uint8_t minute = 2;
 uint8_t second = 0;
 bool h12Flag;
 bool pmFlag;
